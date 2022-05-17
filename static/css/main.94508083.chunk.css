@@ -1,0 +1,2 @@
+.app{flex-direction:column;align-items:center}.app,.tabs{display:flex}.tabs{list-style:none;justify-content:center}.tabs__tab{margin-right:15px}.tabs__button{background-color:#4caf50;color:#fff;padding:16px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;margin:4px 2px;border-radius:8px;transition-duration:.4s;cursor:pointer}.tabs__button:hover{background-color:#fff;color:#000;border:2px solid #4caf50}.content{text-align:center;font-size:2rem;color:#ff8400}
+/*# sourceMappingURL=main.94508083.chunk.css.map */
